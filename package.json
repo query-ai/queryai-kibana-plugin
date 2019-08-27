@@ -1,0 +1,14 @@
+{
+  "name": "query_ai",
+  "version": "0.0.0",
+  "description": "A plugin that embed Query.AI console in Kibana UI",
+  "main": "index.js",
+  "kibana": {
+    "version": "7.1.0",
+    "templateVersion": "1.0.0"
+  },
+  "build": {
+    "git": {},
+    "date": "Tue Aug 06 2019 12:04:22 GMT-0700 (Pacific Daylight Time)"
+  }
+}
