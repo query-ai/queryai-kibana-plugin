@@ -1,7 +1,7 @@
 # Query.AI-kibana-plugin
 
 ## Install
-`./bin/kibana-plugin install https://github.com/sunminxuan/Query.AI-kibana-plugin/releases/download/7.2.0/query_ai-7.2.0.zip`
+``./bin/kibana-plugin install  https://github.com/query-ai/queryai-kibana-plugin/releases/download/7.1.0/Query.AI-kibana-plugin.7.2.zip``
 
 Add below lines in kibana.yml
 ```
