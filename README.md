@@ -8,7 +8,7 @@ Query_ai is a plugin to embed the Query.AI AI Analyst (https://ai.query.ai) in K
 - Prerequisites
   - Download and install Elasticsearch and Kibana
   - Query_ai is supported and tested with Kibana 7.x and 6.x
-  - Install logtrail plugin (requires restart of Kibana after install)
+  - Install Query_ai plugin (requires restart of Kibana after install)
   - Kibana 7.3.0 : `./bin/kibana-plugin install https://github.com/query-ai/queryai-kibana-plugin/releases/download/7.3/Query.AI-kibana-plugin.7.3.zip`
   - Other versions : [https://github.com/query-ai/queryai-kibana-plugin/releases](https://github.com/query-ai/queryai-kibana-plugin/releases)
   - Kibana requires exact match of plugin version to the Kibana version. If you can't find Query_ai plugin release for a Kibana release, contact help@query.ai for help.
