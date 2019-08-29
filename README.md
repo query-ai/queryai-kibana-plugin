@@ -4,7 +4,7 @@ Query_ai is a plugin to embed the Query.AI AI Analyst (https://ai.query.ai) in K
 
 ![Events](screenshot.png)
 
-###Installation
+### Installation
 - Prerequisites
   - Download and install Elasticsearch and Kibana
   - Query_ai is supported and tested with Kibana 7.x and 6.x
@@ -13,7 +13,7 @@ Query_ai is a plugin to embed the Query.AI AI Analyst (https://ai.query.ai) in K
   - Other versions : [https://github.com/query-ai/queryai-kibana-plugin/releases](https://github.com/query-ai/queryai-kibana-plugin/releases)
   - Kibana requires exact match of plugin version to the Kibana version. If you can't find Query_ai plugin release for a Kibana release, contact help@query.ai for help.
 
-###Configuration
+### Configuration
 Add these lines in kibana.yml. Generally, the kibana.yml can be found at 	
 `/etc/kibana`.
 ```
@@ -27,5 +27,5 @@ csp.rules:
 ```
 **Note:** The lines above are telling the Kibana's content security policy that https://ai.query.ai is a safe website and is allowed to be loaded in the Kibana UI. Without adding the above lines, the Kibana plugin won’t work.
 
-###A note about your data:
+### A note about your data:
 The Query.AI AI Analyst never accesses or duplicates your data. The above rule change allows your natural language query to be sent from your Kibana instance to the Query.AI server for translation. The query is then returned and executed from your environment.
