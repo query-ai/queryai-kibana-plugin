@@ -5,7 +5,6 @@ Query_ai is a plugin to embed the Query.AI AI Analyst (https://ai.query.ai) in K
 ![Events](screenshot.png)
 
 ### Installation
------
 - Prerequisites
   - Download and install Elasticsearch and Kibana
   - Query_ai is supported and tested with Kibana 7.x and 6.x
