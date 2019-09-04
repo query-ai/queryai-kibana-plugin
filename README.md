@@ -1,6 +1,6 @@
 # AI-Analyst
 
-AI-Analyst is a plugin to embed the Query.AI AI Analyst (https://ai.query.ai) in Kibana UI.
+Query.AI AI-Analyst Kibana UI plugin uses NLP to provide answers and insights from your data in Elastic stack. See https://query.ai for more information.
 
 ![Events](screenshot.png)
 
@@ -25,7 +25,7 @@ csp.rules:
   # New rule for iframes
   - "frame-src https://ai.query.ai/"
 ```
-**Note:** The lines above are telling the Kibana's content security policy that https://ai.query.ai is a safe website and is allowed to be loaded in the Kibana UI. Without adding the above lines, the Kibana plugin won’t work.
+**Note:** The lines above are telling the Kibana's content security policy that [https://ai.query.ai/](https://ai.query.ai/) is a safe website to load javascript from. Without adding the above lines, the Kibana plugin won’t work. Your data stays between your browser and your Elastic stack. NLP translation of your questions to search syntax happens via our cloud APIs. Please contact help@query.ai for any assistance or further information.
 
-### A note about your data:
-The Query.AI AI Analyst never accesses or duplicates your data. The above rule change allows your natural language query to be sent from your Kibana instance to the Query.AI server for translation. The query is then returned and executed from your environment.
+### About Query.AI:
+Query.AI democratizes Elastic stack data with its Artificial Intelligence virtual Analyst technology. Query.AI IRIS (Investigations Response Intelligence Service) is the AI that talks to you using voice and NLP (Natural Language Processing) to produce answers, insights and automated visualizations from Elastic stack data. Query.AI also captures and combines investigation sequences into NLP Playbooks that can be shared and automated. Register for limited free licenses at [http://query.ai/](https://query.ai/) or reach us at contact@query.ai.
