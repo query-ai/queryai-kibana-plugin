@@ -33,10 +33,10 @@ Register at [https://ai.query.ai/cloud](https://ai.query.ai/cloud)
 ### Plugin Features
 Query.AI democratizes Elastic stack data with its Artificial Intelligence virtual Analyst technology. Query.AI IRIS (Investigations Response Intelligence Service) is the AI that talks to you using voice and NLP (Natural Language Processing) to produce answers, insights and automated visualizations from Elastic stack data. Query.AI also captures and combines investigation sequences into NLP Playbooks that can be shared and automated.
 
-IRIS AI assistant - Allows you to talk to your data using voice or chat to get answers.
-Insights - Automated vizualizations and analysis using machine learning models.
-Automation - Capture your investigations into NLP (Natural Language Processing) playbooks to be run using a single command, at scheduled times, or triggered by events.
-Collaboration - Native environment chat and sharing features allow you to share your playbooks within your community.
+- IRIS AI assistant - Allows you to talk to your data using voice or chat to get answers.
+- Insights - Automated vizualizations and analysis using machine learning models.
+- Automation - Capture your investigations into NLP (Natural Language Processing) playbooks to be run using a single command, at scheduled times, or triggered by events.
+- Collaboration - Native environment chat and sharing features allow you to share your playbooks within your community.
 
 ### Support
 Please contact us at help@query.ai for any product support or feature suggestions (We'd love to hear from you!)
