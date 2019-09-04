@@ -1,7 +1,7 @@
 {
   "name": "query_ai",
   "version": "1.0.0",
-  "description": "A plugin that embed Query.AI console in Kibana UI",
+  "description": "A plugin that embeds Query.AI AI-Analyst console in Kibana UI",
   "main": "index.js",
   "kibana": {
     "version": "7.1.0",
