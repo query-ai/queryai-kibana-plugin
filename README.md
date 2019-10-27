@@ -8,8 +8,9 @@ With IRIS's AI you:
 - Create automated visualizations and insights.
 - Easy App install with no data relocation or duplication
 - Collaborate with teammates and industry peers.
-See https://query.ai for more information. 
-[![Watch demo video](https://img.youtube.com/vi/RxQ2l2xufXs/hqdefault.jpg)](https://youtu.be/RxQ2l2xufXs)
+See https://query.ai for more information. Click here for demo video:
+[![Watch demo video](https://img.youtube.com/vi/RxQ2l2xufXs/mqdefault.jpg)](https://youtu.be/RxQ2l2xufXs)
+Query.AI Kibana Plugin Screenshot:
 ![Events](screenshot.png)
 
 ### Installation
