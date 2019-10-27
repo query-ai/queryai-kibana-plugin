@@ -9,7 +9,7 @@ With IRIS's AI you:
 - Easy App install with no data relocation or duplication
 - Collaborate with teammates and industry peers.
 See https://query.ai for more information. 
-[![Watch demo video](https://youtu.be/RxQ2l2xufXs)](https://youtu.be/RxQ2l2xufXs)
+[![Watch demo video](https://img.youtube.com/vi/RxQ2l2xufXs/hqdefault.jpg)](https://youtu.be/RxQ2l2xufXs)
 ![Events](screenshot.png)
 
 ### Installation
