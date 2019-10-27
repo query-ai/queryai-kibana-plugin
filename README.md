@@ -1,4 +1,4 @@
-# About Query.AI Kibana Plugin
+### About Query.AI Kibana Plugin
 Query.AI IRIS Kibana UI plugin uses NLP to provide answers and insights from your data in Elastic stack.
 Talk to your data with Query.AI IRIS, the industry's only Security Concierge.
 Analyzing your data is now as easy as asking questions : "IRIS, Show me all login failures from yesterday".
@@ -9,12 +9,12 @@ With IRIS's AI you:
 - Easy App install with no data relocation or duplication
 - Collaborate with teammates and industry peers.
 
-See https://query.ai for more information. 
+#### See https://query.ai for more information. 
 
-Click here for demo video:
+#### Click this thumbnail for demo video
 [![Watch demo video](https://img.youtube.com/vi/RxQ2l2xufXs/mqdefault.jpg)](https://youtu.be/RxQ2l2xufXs)
 
-Query.AI Kibana Plugin Screenshot:
+#### Query.AI Kibana Plugin Screenshot
 ![Events](screenshot.png)
 
 ### Installation
