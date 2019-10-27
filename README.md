@@ -1,6 +1,6 @@
 # AI-Analyst
 
-Query.AI AI-Analyst Kibana UI plugin uses NLP to provide answers and insights from your data in Elastic stack. See https://query.ai for more information.
+Query.AI AI-Analyst Kibana UI plugin uses NLP to provide answers and insights from your data in Elastic stack. See https://query.ai for more information. See demo video at https://youtu.be/RxQ2l2xufXs
 
 ![Events](screenshot.png)
 
