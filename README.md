@@ -1,7 +1,15 @@
-# AI-Analyst
-
-Query.AI AI-Analyst Kibana UI plugin uses NLP to provide answers and insights from your data in Elastic stack. See https://query.ai for more information. See demo video at https://youtu.be/RxQ2l2xufXs
-
+# About Query.AI Kibana Plugin
+Query.AI IRIS Kibana UI plugin uses NLP to provide answers and insights from your data in Elastic stack.
+Talk to your data with Query.AI IRIS, the industry's only Security Concierge.
+Analyzing your data is now as easy as asking questions : "IRIS, Show me all login failures from yesterday".
+With IRIS's AI you:
+- Query your data in plain English (using chat or voice),
+- Leverage an Out-of-box library of security questions.
+- Create automated visualizations and insights.
+- Easy App install with no data relocation or duplication
+- Collaborate with teammates and industry peers.
+See https://query.ai for more information. 
+[![Watch demo video](https://youtu.be/RxQ2l2xufXs)](https://youtu.be/RxQ2l2xufXs)
 ![Events](screenshot.png)
 
 ### Installation
@@ -29,15 +37,6 @@ csp.rules:
 ```
 Register at [https://ai.query.ai/live](https://ai.query.ai/live)
 **Note:** The lines above are telling the Kibana's content security policy that [https://ai.query.ai/](https://ai.query.ai/) is a safe website to load javascript from. Without adding the above lines, the Kibana plugin won’t work. Your data stays between your browser and your Elastic stack. NLP translation of your questions to search syntax happens via our cloud APIs. Please contact help@query.ai for any assistance or further information.
-
-### Plugin Features
-Talk to your Elastic Stack data using Query.AI. Query.AI IRIS (Investigations Response Intelligence Service) is the AI that talks to you using voice and NLP (Natural Language Processing) to produce answers, insights and automated visualizations from Elastic stack data. 
-- Query your data in plain english
-- Leverage an Out-of-box library of security questions
-- Easy App install with no data relocation or duplication
-- Automated visualizations and insights
-- Collaborate with teammates and industry peers 
-Getting value from your tools is now as easy as asking questions: “IRIS, show me all login failures from yesterday”
 
 ### Support
 Please contact us at help@query.ai for any product support or feature suggestions (We'd love to hear from you!)
