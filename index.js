@@ -8,7 +8,7 @@ export default function (kibana) {
     uiExports: {
       app: {
         title: 'Query AI',
-        description: 'A plugin that embed Query.AI console in Kibana UI',
+        description: 'A plugin that embeds Query.AI AI-Analyst console in Kibana UI',
         main: 'plugins/query_ai/app'
       },
     },
