@@ -26,7 +26,9 @@ With IRIS's AI you:
 - Install AI-Analyst plugin
   - cd to your kibana root folder, then run the following line.
   - Install from URL: Example Kibana 7.3.0 : 
-  ```https://github.com/query-ai/queryai-kibana-plugin/releases/download/7.3/ai_analyst-7.3.0.zip```
+  ```
+  https://github.com/query-ai/queryai-kibana-plugin/releases/download/7.3/ai_analyst-7.3.0.zip
+  ```
   - Alternately, download the plugin zip and install : Example Kibana 6.7.2 : 
   ```
   ./bin/kibana-plugin install file:///my-local-file-path/ai_analyst-6.7.2.zip
