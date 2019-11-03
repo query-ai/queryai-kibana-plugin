@@ -20,39 +20,6 @@ export default function (kibana) {
     },
 
     init(server, options) { // eslint-disable-line no-unused-vars
-        const xpackMainPlugin = server.plugins.xpack_main;
-        if (xpackMainPlugin) {
-          const featureId = 'query_ai';
-
-          xpackMainPlugin.registerFeature({
-            id: featureId,
-            name: i18n.translate('queryAi.featureRegistry.featureName', {
-              defaultMessage: 'Query.AI',
-            }),
-            navLinkId: featureId,
-            icon: 'questionInCircle',
-            app: [featureId, 'kibana'],
-            catalogue: [],
-            privileges: {
-              all: {
-                api: [],
-                savedObject: {
-                  all: [],
-                  read: [],
-                },
-                ui: ['show'],
-              },
-              read: {
-                api: [],
-                savedObject: {
-                  all: [],
-                  read: [],
-                },
-                ui: ['show'],
-              },
-            },
-          });
-        }
 
     }
   });
