@@ -26,8 +26,7 @@ With IRIS's AI you:
 - Install AI-Analyst plugin
   - Install from URL: Example Kibana 7.3.0 : `./bin/kibana-plugin install https://github.com/query-ai/queryai-kibana-plugin/releases/download/7.3/Query.AI-kibana-plugin.7.3.zip`
   - Alternately, download the plugin zip and install : Example Kibana 6.7.2 : `./bin/kibana-plugin install file:///my-local-file-path/Query.AI-kibana-plugin.6.7.2.zip
-  - Other versions : [https://github.com/query-ai/queryai-kibana-plugin/releases](https://github.com/query-ai/queryai-kibana-plugin/releases)
-  - Kibana requires exact match of plugin version to the Kibana version. If you can't find AI-Analyst plugin zip for a Kibana release, download the closest versioned plugin zip file, unzip the file, change the version number in package.json, rezip the file, and then install using the file url example above. 
+  - Other versions : [https://github.com/query-ai/queryai-kibana-plugin/releases](https://github.com/query-ai/queryai-kibana-plugin/releases) Can't find your version? Kibana requires exact match of plugin version to the Kibana version. If you can't find AI-Analyst plugin zip for a Kibana release, download the closest versioned plugin zip file, unzip the file, change the version number in package.json, rezip the file, and then install using the file url example above. 
   - Restart Kibana after plugin install.
   - NOTE: You do not need to install any other component beyond this plugin.
 
