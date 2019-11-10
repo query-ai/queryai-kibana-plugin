@@ -12,7 +12,7 @@ With IRIS's AI you:
 #### See https://query.ai for more information. 
 
 #### Click this thumbnail for demo video
-[![Watch demo video](https://img.youtube.com/vi/RxQ2l2xufXs/mqdefault.jpg)](https://youtu.be/RxQ2l2xufXs)
+[![Watch demo video](https://img.youtube.com/vi/RxQ2l2xufXs/mqdefault.jpg)](https://youtu.be/oGENhPyE9kQ)
 
 #### Query.AI Kibana Plugin Screenshot
 ![Events](screenshot.png)
